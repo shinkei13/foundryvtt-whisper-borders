@@ -2,14 +2,14 @@
   "name": "whisper-borders",
   "title": "Whisper Borders",
   "description": "Display the Player's border color on whispered messages.",
-  "author": "Jonny",
+  "author": "shinkei13",
   "version": "0.3.8",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.9",
   "scripts": [
         "./js/whisper-borders.js"
   ],
-  "url": "",
+  "url": "https://github.com/shinkei13/foundryvtt-whisper-borders",
   "manifest": "https://raw.githubusercontent.com/shinkei13/foundryvtt-whisper-borders/c8fcab9ebd223fc94487866dc27305d444fbd68b/module.json",
   "download": "https://github.com/shinkei13/foundryvtt-whisper-borders/archive/refs/tags/v0.3.8.zip"
 }

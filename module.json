@@ -1,0 +1,15 @@
+{
+  "name": "whisper-borders",
+  "title": "Whisper Borders",
+  "description": "Display the Player's border color on whispered messages.",
+  "author": "Jonny",
+  "version": "0.3.8",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9",
+  "scripts": [
+        "./js/whisper-borders.js"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
